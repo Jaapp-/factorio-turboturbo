@@ -3,7 +3,7 @@
 	"author": "lemagedurage",
 	"version": "1.0.0",
 	"title": "TurboTurbo",
-	"description": "Faster game, faster walking, better reach, better crafting/mining speed, more inventory, always day.",
+	"description": "Faster game, faster walking, faster crafting, faster mining, further reach, bigger inventory, always day.",
 	"factorio_version": "0.15",
 	"dependencies": ["base >= 0.15.0"]
 }

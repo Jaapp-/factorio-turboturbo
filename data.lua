@@ -1,0 +1,12 @@
+data.raw.player.player.running_speed = 0.5
+data.raw.player.player.mining_speed = 1000
+data.raw.player.player.reach_distance = 10000
+data.raw.player.player.build_distance = 10000
+data.raw.player.player.loot_pickup_distance = 20
+data.raw.player.player.inventory_size = 240
+data.raw.player.player.reach_resource_distance = 100000
+-- data.raw.player.player.quickbar_count = 16
+-- data.raw.player.player.character_logistic_slot_count_bonus = 30
+-- data.raw.player.player.character_trash_slot_count_bonus = 30
+-- data.raw.player.player.character_maximum_following_robot_count_bonus = 30
+-- data.raw.player.player.character_health_bonus = 30

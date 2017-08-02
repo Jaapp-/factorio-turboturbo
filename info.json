@@ -1,0 +1,9 @@
+{
+	"name": "turbo-turbo",
+	"author": "lemagedurage",
+	"version": "1.0.0",
+	"title": "TurboTurbo",
+	"description": "Faster game, faster walking, better reach, better crafting/mining speed, more inventory, always day.",
+	"factorio_version": "0.15",
+	"dependencies": ["base >= 0.15.0"]
+}
